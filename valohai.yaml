@@ -1,0 +1,6 @@
+---
+
+- step:
+    name: Start
+    image: deploymine/mltb
+    command: cd /usr/src/app && bash start.sh
